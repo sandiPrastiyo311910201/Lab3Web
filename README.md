@@ -43,6 +43,9 @@ Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selectio
 
 ![PERTANYAAN](https://user-images.githubusercontent.com/81818405/115100789-3c7adf00-9f69-11eb-958d-8eb3df108cc5.PNG)
 
+![pert](https://user-images.githubusercontent.com/81818405/115101101-b613cc80-9f6b-11eb-900d-5d9deaa2396d.jpeg)
+
+
 
 
 
